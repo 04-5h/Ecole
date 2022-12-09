@@ -57,4 +57,4 @@ $ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plug
 $ sudo docker version
 - 도커 버전을 확인하여 클라이언트와 서버가 설치된 것을 확인
 
-
+<img width="800" src="https://user-images.githubusercontent.com/80237293/206609492-8dda2c02-05db-4843-8790-1e26bcd90e40.png"/>
