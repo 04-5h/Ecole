@@ -1,14 +1,14 @@
 VirtualBox를 이용한 ubuntu 환경설정
 
 # 1.가상머신 VirtualBox 다운
-<img width="800" src="https://user-images.githubusercontent.com/80237293/206605381-4c9c07bf-a58e-443c-9ed5-9c4b670253aa.png" />
+<img width="500" src="https://user-images.githubusercontent.com/80237293/206605381-4c9c07bf-a58e-443c-9ed5-9c4b670253aa.png" />
 
 # 2.리눅스 OS 우분투 다운
-<img width="800" src="https://user-images.githubusercontent.com/80237293/206605387-c7fe83ef-9453-4284-a43c-dea09e29ba92.png"/>
+<img width="500" src="https://user-images.githubusercontent.com/80237293/206605387-c7fe83ef-9453-4284-a43c-dea09e29ba92.png"/>
 
 # 3. 우분투 설치를 위한 가상 디스크
 새로만들기를 선택해 이름을 설정한 후 다운받은 우분투 ISO 파일을 추가
-<img width="800" src="https://user-images.githubusercontent.com/80237293/206605400-1a6ab567-11a4-48bc-912d-0b0830c85882.png"/>
+<img width="500" src="https://user-images.githubusercontent.com/80237293/206605400-1a6ab567-11a4-48bc-912d-0b0830c85882.png"/>
 
 # sudo (substitute user do)
 - 현재 계정에서 다른 계정, 즉 슈퍼 유저로서 관리자 권한을 가진 계정으로 프로그램을 구동할 수 있도록 하는 command
