@@ -1,4 +1,4 @@
-VirtualBox를 이용한 ubuntu 환경설정
+# VirtualBox를 이용한 ubuntu 환경설정
 
 # 1.가상머신 VirtualBox 다운
 <img width="500" src="https://user-images.githubusercontent.com/80237293/206605381-4c9c07bf-a58e-443c-9ed5-9c4b670253aa.png" />
