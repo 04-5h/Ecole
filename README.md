@@ -1,4 +1,4 @@
-# 2022 ecole
+# 2022 Ecole-Project
 
 ## 1. [Portpolio](https://04-5h.github.io/Ecole/new/index.html)
 HTML5과 CSS3 기반으로 작성한 포트폴리오
